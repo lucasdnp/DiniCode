@@ -1,3 +1,5 @@
+#Versão definitiva
+
 # Definindo variáveis globais
 saldo = 20000
 limite_saque = 4000
